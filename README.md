@@ -20,6 +20,9 @@ Rules for Labshark Repo
   comittee know and wait for their approval, otherwise follow the final version of the Software Design Document.
 * Please keep the repositories clean of unnecesary files. 
 * Members test your code thouroughly before asking to integrate, that will save you and the lead programmers time.
+* Members please name your files properly for clarification and give them appropritate names. For example "poop.py" is not allowed 
+        *Ideally name the files after the classes or subsystems you are trying to build. Camel Case is preffered, but not required
+        Example: ProtocolDecisionTree.py, fieldBlock.py, projectState.py, etc. 
 * Most importantly lets do our best and work hard so we can actually have a working system at the end of this semester. 
  
  DIRECTORIES:
